@@ -5,7 +5,7 @@ Este proyecto consiste en un reconocedor de declaraciones de variables del lengu
 
 El archivo main.py define una función `carga_archivo` que hace lo siguiente:
 
-1. Crea la ventana de una aplicación usando el paquete de python `tkinter`.
+1. Inicializa la ventana de una aplicación usando el paquete de python `tkinter`.
 2. Abre el archivo mediante una ventana de selección con `filedialog.askopenfilename()`,  permitiendo que el usuario escoja. 
 3. Si el archivo es seleccionado:
     * Abre el archivo 
