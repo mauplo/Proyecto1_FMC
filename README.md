@@ -13,7 +13,7 @@ El archivo main.py define una función `carga_archivo` que hace lo siguiente:
     * Imprime los contenidos en la consola
     * Regresa el contenido como un string.
 4. Si el archivo no es seleccionado:
-    * Imprime "No file selected." en la consola.
+    * Imprime "No se seleccionó un archivo." en la consola.
     * Regresa `None`.
 
 ## Uso
