@@ -18,10 +18,9 @@ El archivo main.py define una función `carga_archivo` que hace lo siguiente:
 
 ## Uso
 
-1. Correr el archivo main.py en una IDE como Visual Code (evitar jupyter o collab)
+1. Correr el archivo main.py en una IDE como Visual Studio Code (evitar ambientes remotos como collab y jupyter).
 2. Un dialogo para la selección de un archivo aparecerá.
-3. Escoger el archivoque se quiere leer y picar "Open"/"Abrir"
-4. The contents of the file will be printed to the console.
-5. The file contents are also returned by the `carga_archivo` function, which can be used for further processing in your code.
+3. Escoger el archivoque se quiere leer y picar "Open"/"Abrir".
+4. Los contenidos del archivo aparecerán en la consola.
 
 ## Ejemplo
