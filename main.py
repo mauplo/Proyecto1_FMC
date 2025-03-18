@@ -119,7 +119,7 @@ indicesTipoExplicito = [16] + list(range(17, 32, 2))
 indicesArrayOf = range(11, 16)
 indicesTipoImplicito = range(6, 10)
 
-
+### ANALIZA_ARCHIVO: función para analizar el contenido del archivo ###
 def analiza_archivo():
     ### DECLARACIÓN DE VARIABLES ###
     """
