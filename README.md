@@ -238,7 +238,7 @@ El código está organizado en funciones específicas:
     - `analiza_archivo()`: Procesa el contenido, utiliza expresiones regulares para identificar declaraciones y genera estadísticas detalladas.
 
 
-#Consideraciones Finales
+# Consideraciones Finales
 - **Formato del archivo**:
 El programa espera archivos de texto (.txt) con declaraciones en formato Kotlin. Asegúrate de que el contenido respete la sintaxis básica para obtener resultados precisos.
 
