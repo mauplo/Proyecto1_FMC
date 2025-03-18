@@ -217,12 +217,12 @@ arrayOfDouble: aod1, aod2
 
 ```
 
-# Problemas Conocidos
+## Problemas Conocidos
 - **Limitación de tipos**: Solo se reconocen los tipos básicos y ciertos arreglos predefinidos. No se analizan estructuras complejas, anidadas o clases completas.
 - **Alcance de las declaraciones**: Se analizan únicamente declaraciones directas; por lo tanto, algunas estructuras válidas en contextos más complejos podrían no ser reconocidas.
 
 
-# Detalles Técnicos y Modularización
+## Detalles Técnicos y Modularización
 - **Expresiones Regulares**:
 Se utilizan expresiones regulares complejas para capturar las declaraciones de variables, tanto para asignaciones explícitas como implícitas. Esto permite identificar correctamente el tipo de dato, inicialización y el uso de arreglos.
 
@@ -238,7 +238,7 @@ El código está organizado en funciones específicas:
     - `analiza_archivo()`: Procesa el contenido, utiliza expresiones regulares para identificar declaraciones y genera estadísticas detalladas.
 
 
-# Consideraciones Finales
+## Consideraciones Finales
 - **Formato del archivo**:
 El programa espera archivos de texto (.txt) con declaraciones en formato Kotlin. Asegúrate de que el contenido respete la sintaxis básica para obtener resultados precisos.
 
