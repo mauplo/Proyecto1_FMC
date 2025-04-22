@@ -22,7 +22,7 @@ El objetivo es automatizar el reconocimiento de estructuras válidas en Kotlin, 
 
 ## Requisitos
 
-- **Python 3.x:** Se recomienda Python 3.6 o superior.
+- **Python 3.9:** SSe necesita python 3.9 o superior por la función `def parseWhiles(tokens: list) -> tuple[int, list]:`
 - **Tkinter:** Este módulo, utilizado para la interfaz gráfica, viene generalmente incluido en la instalación estándar de Python.
 - **Librerías estándar:** `re` y `collections` (no se requiere instalación adicional).
 
